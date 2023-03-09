@@ -1,4 +1,4 @@
-## Helloooo..! 👋:blossom:
+## Holaaa..! 👋
 ### CRM Developer | Web Developer..!
 
 Here are some ideas to get you started:
