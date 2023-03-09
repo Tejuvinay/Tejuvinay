@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: saivinaypatnam@gmail.com
 - https://vinay.hashnode.dev/
 
-[![Koumudi's github stats](https://github-readme-stats.vercel.app/api?username=koumudi-panguluri&show_icons=true&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
+[![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=Tejuvinay&show_icons=true&theme=tokyonight)](https://github.com/Tejuvinay/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koumudi-panguluri&layout=compact&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejuvinay&layout=compact&theme=tokyonight)](https://github.com/Tejuvinay/github-readme-stats)
 
 ### My Tech Stack.
 
@@ -25,6 +25,5 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="5%" height="5%">
 </p>
 
-[![Koumudi's twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/koumudi_psk)
-[![Koumudi's github](http://i.imgur.com/0o48UoR.png)](https://github.com/koumudi-panguluri)
-[![Koumudi's facebook](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/koumudi_psk)
+[![Vinay's twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/VInayPatnam6802)
+[![Vinay's github](http://i.imgur.com/0o48UoR.png)](https://github.com/Tejuvinay)
