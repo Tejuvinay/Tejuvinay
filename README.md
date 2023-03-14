@@ -1,13 +1,12 @@
 ## Holaaa..! 👋
-### CRM Developer | Web Developer..!
+### Web Developer..!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Power apps
-- 🌱 I’m currently learning D365
+- 🔭 I’m currently working on Next.js
+- 🌱 I’m currently learning Flutter
 - 👯 I’m in collaboration with Reply
 - 💻 My projects are available at [Github](https://github.com/Tejuvinay)
-- 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-p-967568248/)
 - 💬 Ask me about Angular, React and CRM, Microsoft D365.
 - 📫 How to reach me: saivinaypatnam@gmail.com
 - https://vinay.hashnode.dev/
